@@ -53,6 +53,11 @@ When it comes to existing AI art platforms, there are quite a few issues:
 ---
 
 ## Getting Started
+-  [Project URL](https://artemis-multichain-mi8d.vercel.app/)
+- [Demo Video](https://youtu.be/Dq6D1nq1Q7w)
+- [Presentation](https://gamma.app/docs/Artemis-AI-Unleashing-Creativity-in-the-Blockchain-Era-04pk1l3loy0uoxk?mode=present#card-iy8u9fv4w04yi74)
+
+
  This codebase has four main parts - Each repository has a very detailed Readme, enabling you to understand, test and interact with our project
   - [Frontend](https://github.com/Artemis-Multichain/frontend) - The UI, also shows how we use SEDA & Particle Connect on the client side
   - [Python Backend](https://github.com/Artemis-Multichain/backend): Stores all of the indexed data from the smart contracts and provides extra computation for social streaks, leaderboard, and social feed curation
