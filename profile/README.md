@@ -38,6 +38,7 @@ When it comes to existing AI art platforms, there are quite a few issues:
 - **Generative AI Prompt Monetization**
 
    - Share AI image prompts for free in the community collection or monetize your creativity by selling protected premium NFT prompts with multi-layered security. Prompt Creations marked premium are locked, AES encrypted, and require **tx-gated access**. When users buy a prompt nft on any chain, the transaction hash is verified on chain using **Etherscan data proxies on** **SEDA**. If it was successful, our consumer smart contract returns a transactions successful response. Then, the AI prompt is unlocked, the key is regenerated and the prompt is decrypted and accessible to buyer.
+
    - **Transaction verification is also Chain abstracted, so a transaction hash created from buying a prompt on arbitrum sepolia can be verified using a smart contract on base sepolia**. 
 
 - **Automated Price Feeds** - 
