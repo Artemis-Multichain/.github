@@ -29,7 +29,7 @@ When it comes to existing AI art platforms, there are quite a few issues:
 - **Seamless Experience**
 
   - **Gasless Transactions**: Enjoy a fee-free experience powered by **Particle Network**. Get started creating quality AI prompts and images without manually paying for gas.
-  - **Social Logins**: Our project leverages **Particle Connect SDK** to deliver a frictionless onboarding experience with cross-chain compatibility. By implementing Particle's authentication infrastructure, we've enabled users to seamlessly interact with multiple blockchains through a single, secure smart account - supporting both Web3-native and traditional social login methods.
+  - **Social Logins**: Our project leverages **Particle Connect SDK** to deliver a **frictionless onboarding experience with cross-chain compatibility**. By implementing Particle's authentication infrastructure, we've enabled users to seamlessly interact with multiple blockchains through a single, secure smart account - supporting both Web3-native and traditional social login methods.
     
 - **AI Image Creation**: 
 
