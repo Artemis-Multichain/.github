@@ -41,6 +41,8 @@ When it comes to existing AI art platforms, there are quite a few issues:
 
    - **Transaction verification is also Chain abstracted, so a transaction hash created from buying a prompt on arbitrum sepolia can be verified using a smart contract on base sepolia**. 
 
+- **Chain Abstracted Premium Marketplace**: Our integration with **Particle Connect SDK** enables seamless multi-chain prompt NFT creation and trading. Through **Particle**'s account abstraction layer, creators can mint and list premium prompt NFTs on any supported blockchain, while users enjoy frictionless authentication and cross-chain transactions
+
 - **Automated Price Feeds** - 
   - We created an automated price feed contract so users can price their premium prompts in USD and get paid directly in ETH. This is built using **SEDA**, and automated with **Chainlink Automation**
 
