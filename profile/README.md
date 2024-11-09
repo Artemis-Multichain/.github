@@ -20,7 +20,7 @@
     
 - **AI Image Creation**: 
 
-     Generate stunning images using advanced models like Stable Diffusion, Stable Image Core, and Stable Image Ultra, leveraging either your own prompts or those crafted by the Prompt Generator to create artwork with excellent typography, complex compositions, dynamic lighting, and vibrant hues.
+  - Generate stunning images using advanced models like Stable Diffusion, Stable Image Core, and Stable Image Ultra, leveraging either your own prompts or those crafted by the Prompt Generator to create artwork with excellent typography, complex compositions, dynamic lighting, and vibrant hues.
 
 - **Generative AI Prompt Monetization**
 
